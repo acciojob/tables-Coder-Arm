@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+thead{
+	
+	background: black;
+	color: white;
+}
+tfoot{
+	font-family: monospace;
+	background: rgb(240, 240, 240);
+}
